@@ -9,4 +9,4 @@ cloud:
 config:
 server:
 git :
-uri: <a href="https://github.com/joshlong/microservices-lab-configuration">https://github.com/joshlong/microservices-lab-configuration</a>
+uri: <a href="https://github.com/dnrajugade/spring-config-properties.git">https://github.com/dnrajugade/spring-config-properties.git</a>
